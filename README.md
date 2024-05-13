@@ -4,7 +4,7 @@ Although, I do enjoy working with fluids and CFD, I am also interested in genera
 - 🌱 I’m currently re-learning things I learnt in my Masters, its been quite a while and I've almost forgotten some concepts.
 - This Github is a work in progress where I aim to build my portfolio for future hiring managers' reference.
 - 💞️ I’m looking to collaborate with people who have worked as an aerodynamicist or a CFD Methodology engineer. I wish to acquire the skills they have and develop some of my own.
-- 📫 Reach me via email on nispruhags@gmail.com for any suggestions to improve my CFD skills.
+- 📫 Reach me via email on nispruhags@gmail.com or you can Message me on LinkedIn to give me advice and suggestions to improve myself.
 
 
 
